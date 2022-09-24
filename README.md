@@ -1,16 +1,25 @@
-# widget_kit
+<div align="center">
+<h3 align="center">Flutter with Dynamic Island</h3>
+</div>
 
-A new Flutter project.
+## About The Project
+
+This project is a sample project that show how to do Dynamic Island. For Flutter developer, I add integration between Flutter and Native as well.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+N/A
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+VDO from sample code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![VDO from sample code](https://img.youtube.com/vi/JSv6Quj9cwc/0.jpg)](https://www.youtube.com/watch?v=JSv6Quj9cwc)
+
+Real-world use case that I apply in my current project
+
+N/A
+
+## Contact
+
+Amorn Apichattanakul - [@EinzelnSync](https://twitter.com/EinzelnSync) - benamorn@gmail.com - [LinkedIn](https://www.linkedin.com/in/amorna/)
