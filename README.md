@@ -8,7 +8,7 @@ This project is a sample project that show how to do Dynamic Island. For Flutter
 
 ## Getting Started
 
-N/A
+Clone this project and use this article for reference [Medium](https://medium.com/kbtg-life/how-to-create-dynamic-island-and-widgetkit-with-flutter-b16d386e557e)
 
 ## Usage
 
